@@ -1,39 +1,77 @@
 # Hi, I'm Mohammed Shaikh 👨‍💻
 
-I'm a **fresher full-stack developer** passionate about building web and mobile applications. I love solving problems with code and constantly improving my skills in various technologies. Below you'll find my skills, GitHub stats, and how you can connect with me.
+I'm a **Software Engineer** passionate about Cloud, DevOps, Backend Development, and building scalable systems.
+
+I enjoy designing cloud-native applications, automating deployments with CI/CD, working with containers and Kubernetes, and building reliable backend services. I'm constantly learning modern cloud technologies and contributing to projects that improve performance, scalability, and developer experience.
 
 ## 🚀 About Me
 
-- 💻 **Skills**: JavaScript, C++, Java, Spring Boot, React, React Native, SQL, MongoDB, Firebase, Express, Node.js
-- 📚 **Currently learning**: Advanced **Java**, **Spring Boot**.
-- 🌱 **I’m passionate about**: Full-stack development, building responsive UIs, backend architecture, and optimizing code for performance.
-- 🌍 **Looking forward to**: Contributing to open-source projects and collaborating with other developers!
+- ☁️ Building cloud-native applications using AWS
+- 🐳 Working with Docker, Kubernetes, and containerized workloads
+- ⚙️ Learning DevOps practices including CI/CD, Infrastructure, and Automation
+- 💻 Passionate about Backend Engineering, Distributed Systems, and APIs
+- 🌱 Currently exploring Kubernetes, Terraform, GitHub Actions, and Serverless Architecture
+- 🤝 Open to collaborating on Cloud, DevOps, and Open Source projects
 
 ## 🛠️ Technologies & Tools
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+</div>
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+</div>
 
 ### Databases
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+### Cloud & DevOps
 
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
+## 🤝 Open Source Contributions
+
+| Project | Pull Request |
+|---------|--------------|
+| Agno | [#7663 - fix typo in 05_agent_os readme](https://github.com/agno-agi/agno/pull/7663) |
+| LightGBM | [#7345 - add ppc64le support for cpp-tests](https://github.com/lightgbm-org/LightGBM/pull/7345) |
 ## 📈 GitHub Stats
 
 ### My GitHub Stats
@@ -51,6 +89,6 @@ Feel free to reach out to me through:
 
 ---
 
-🔭 I’m currently exploring new tools, frameworks, and continuously improving my full-stack development skills!
+🌱 Currently learning, building, and contributing to projects in Cloud, DevOps, and Backend Engineering.
 
-Thanks for visiting my profile! Let’s connect and collaborate! 😊
+I'm always open to collaborating on interesting projects and learning from the community. 🤝
