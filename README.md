@@ -85,7 +85,7 @@ I enjoy designing cloud-native applications, automating deployments with CI/CD, 
 Feel free to reach out to me through:
 
 - **Email**: shaikha015@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/mohammed-shaikh-7b0074227/
+- **LinkedIn**: https://www.linkedin.com/in/mohammedshaikh30/
 - **Portfolio**: https://mohammed-portfolio-mu.vercel.app/
 
 ---
