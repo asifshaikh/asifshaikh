@@ -72,6 +72,7 @@ I enjoy designing cloud-native applications, automating deployments with CI/CD, 
 |---------|--------------|
 | Agno | [#7663 - fix typo in 05_agent_os readme](https://github.com/agno-agi/agno/pull/7663) |
 | build-scripts | [#8274 - added build script for couchbase-python-client](https://github.com/ppc64le/build-scripts/pull/8274) |
+| build-scripts | [#8357 - updated rhelppc patch to fix cve](https://github.com/ppc64le/build-scripts/pull/8357) |
 | LightGBM | [#7345 - add ppc64le support for cpp-tests](https://github.com/lightgbm-org/LightGBM/pull/7345) |
 ## 📈 GitHub Stats
 
