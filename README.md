@@ -74,6 +74,8 @@ I enjoy designing cloud-native applications, automating deployments with CI/CD, 
 | build-scripts | [#8274 - added build script for couchbase-python-client](https://github.com/ppc64le/build-scripts/pull/8274) |
 | build-scripts | [#8357 - updated rhelppc patch to fix cve](https://github.com/ppc64le/build-scripts/pull/8357) |
 | LightGBM | [#7345 - add ppc64le support for cpp-tests](https://github.com/lightgbm-org/LightGBM/pull/7345) |
+| LightGBM | [#7373 - add ppc64le Python wheels](https://github.com/lightgbm-org/LightGBM/pull/7373) |
+| build-scripts | [#8571 - upgraded Triton to v2.70.0](https://github.com/ppc64le/build-scripts/pull/8571) |
 ## 📈 GitHub Stats
 
 ### My GitHub Stats
