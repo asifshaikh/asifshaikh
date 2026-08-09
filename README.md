@@ -82,7 +82,6 @@ I enjoy designing cloud-native applications, automating deployments with CI/CD, 
 | build-scripts | [#8571 - upgraded Triton to v2.70.0](https://github.com/ppc64le/build-scripts/pull/8571) |
 ## 📈 GitHub Stats
 
-### My GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=asifshaikh&theme=kanagawa-paper)](https://git.io/streak-stats)
 
