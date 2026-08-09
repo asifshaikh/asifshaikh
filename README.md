@@ -80,7 +80,7 @@ I enjoy designing cloud-native applications, automating deployments with CI/CD, 
 
 ### My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifshaikh&show_icons=true&count_private=true&hide=prs&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=asifshaikh&theme=kanagawa-paper)](https://git.io/streak-stats)
 
 
 ## 📩 Let's Connect
