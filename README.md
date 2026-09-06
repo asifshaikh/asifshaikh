@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Shaikh 👨‍💻
+# Hi, I'm Mohammed Sheikh 👨‍💻
 
 I'm a **Software Engineer** passionate about Cloud, DevOps, Backend Development, and building scalable systems.
 
