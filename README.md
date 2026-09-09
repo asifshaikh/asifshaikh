@@ -81,6 +81,7 @@ I enjoy designing cloud-native applications, automating deployments with CI/CD, 
 | LightGBM | [#7373 - add ppc64le Python wheels](https://github.com/lightgbm-org/LightGBM/pull/7373) |
 | build-scripts | [#8571 - upgraded Triton to v2.70.0](https://github.com/ppc64le/build-scripts/pull/8571) |
 | Kubeflow Pipelines | [#14192 - feat: Updated dockerfile to support ppc64le](https://github.com/kubeflow/pipelines/pull/14192) |
+| LightGBM | [#7429 - fix flaky test case on ppc64le](https://github.com/lightgbm-org/LightGBM/pull/7429) |
 ## 📈 GitHub Stats
 
 
